@@ -2,7 +2,7 @@
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<img src="./img/preview.jpg">Estude esse projeto em formato de vídeo clicando aqui.</a>
+<img src="./assets/img/preview.jpg">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
